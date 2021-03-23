@@ -19,7 +19,7 @@
  How to reach me:
 </p>
 <p align="center"> 
-<img src="https://icons8.com/icon/60ZV_wYC0BM2/linkedin" href="https://www.linkedin.com/" height="30" width="40"">
+<img src="https://img.icons8.com/doodle/2x/linkedin.png" height="30" width="40"">
 <img  src="https://simpleicons.org/icons/gmail.svg"  height="30" width="40"">
 </p>
 
