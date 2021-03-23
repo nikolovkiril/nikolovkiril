@@ -12,7 +12,13 @@
 
 <p align="center">
   Languages and Tools:
-  
+</p>
+<p align="center">
+  <img src="https://img.icons8.com/color/2x/c-sharp-logo.png" height="30" width="40"">
+  <img src="https://img.icons8.com/color/2x/javascript.png" height="30" width="40"">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" height="30" width="40"">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" height="30" width="40"">
+  <img src="  https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" height="30" width="40"">
 </p>
 
 
