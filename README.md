@@ -9,14 +9,15 @@
 
 
 
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nikolovkiril&show_icons=true&theme=merko&hide=contribs,prs" alt="animated" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikolovkiril&layout=compact&show_icons=true&theme=merko&hide=contribs" width=318 />
+  Languages and Tools:
+  
 </p>
 
-#
+
 <p align="center">
- How to reach me:
+Connect with me:
 </p>
 <p align="center"> 
 <a href="https://www.linkedin.com/in/kiril-nikolov-5b4b78209/">
@@ -29,6 +30,11 @@
 <img  src="https://img.icons8.com/doodle/2x/facebook-new.png"  height="30" width="40"">
 </p>
 
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nikolovkiril&show_icons=true&theme=merko&hide=contribs,prs" alt="animated" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikolovkiril&layout=compact&show_icons=true&theme=merko&hide=contribs" width=318 />
+</p>
 <!---
 nikolovkiril/nikolovkiril is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
