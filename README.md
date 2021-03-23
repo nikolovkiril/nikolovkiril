@@ -22,7 +22,7 @@
 <a href="https://www.linkedin.com/in/kiril-nikolov-5b4b78209/">
 <img src="https://img.icons8.com/doodle/2x/linkedin.png" height="30" width="40"">
                                                                                 
-<a href="mailto:nikolov.kiril123@gmail.com?subject=Hello world&body=Line one%0DLine two">
+<a href="mailto:nikolov.kiril123@gmail.com">
 <img  src="https://img.icons8.com/doodle/2x/gmail.png"  height="30" width="40"">
                                                                                
 <a href="https://www.facebook.com/kiril.nikolov.904">
