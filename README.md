@@ -20,7 +20,7 @@
 </p>
 
 <p align="center"> 
-<img align="center" src="https://simpleicons.org/icons/linkedin.svg" alt="kiril-nikolov" height="30" width="40"">
+<img align="center" src="https://simpleicons.org/icons/linkedin.svg" alt="kiril-nikolov-5b4b78209" height="30" width="40"">
 <img align="center" src="https://simpleicons.org/icons/facebook.svg" alt="kiril-nikolov" height="30" width="40"">
 </p>
 
