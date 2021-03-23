@@ -18,8 +18,10 @@
 <p align="center">
  How to reach me:
 </p>
-
-
+<p align="center"> 
+<img src="https://simpleicons.org/icons/linkedin.svg" href="https://www.linkedin.com/" height="30" width="40"">
+<img  src="https://simpleicons.org/icons/gmail.svg"  height="30" width="40"">
+</p>
 
 <!---
 nikolovkiril/nikolovkiril is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
