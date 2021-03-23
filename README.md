@@ -19,6 +19,7 @@
  How to reach me:
 </p>
 <p align="center"> 
+<a href="https://www.linkedin.com/in/kiril-nikolov-5b4b78209/">
 <img src="https://img.icons8.com/doodle/2x/linkedin.png" height="30" width="40"">
 <img  src="https://img.icons8.com/doodle/2x/gmail.png"  height="30" width="40"">
 </p>
