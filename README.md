@@ -16,10 +16,10 @@
 <p align="center">
   <img src="https://img.icons8.com/color/2x/c-sharp-logo.png" height="30" width="40"">
   <img src="http://i.imgur.com/yfiYW8H.jpg" height="30" width="40"">
-  <img src="https://img.icons8.com/color/2x/javascript.png" height="30" width="40"">
   <img src="https://miro.medium.com/max/3584/1*999RIfEE3NgCkiqQhR_Qaw.png" height="30" width="40"">
   <img src="https://avatars.githubusercontent.com/u/890883?s=400&v=4" height="30" width="40"">
   <img src="https://fiverr-res.cloudinary.com/images/q_auto,f_auto/gigs/135238978/original/06cd5bf8016a1f9057b68306b2b69d7188e8d86c/build-your-web-app-and-web-api-with-asp-dot-net-mvc.jpg" height="30" width="40"">
+  <img src="https://img.icons8.com/color/2x/javascript.png" height="30" width="40"">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" height="30" width="40"">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" height="30" width="40"">
   <img src="https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-icon.svg" height="30" width="40"">
